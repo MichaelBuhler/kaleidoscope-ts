@@ -1,0 +1,23 @@
+{
+  "name": "kaleidoscope-ts",
+  "version": "1.0.0",
+  "description": "Following the \"My First Language Frontend with LLVM Tutorial\", with TypeScript implementation, rather than C++.",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.7.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelBuhler/kaleidoscope-ts.git"
+  },
+  "author": "Michael Buhler",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MichaelBuhler/kaleidoscope-ts/issues"
+  },
+  "homepage": "https://github.com/MichaelBuhler/kaleidoscope-ts#readme"
+}
