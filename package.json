@@ -4,6 +4,7 @@
   "description": "Following the \"My First Language Frontend with LLVM Tutorial\", with TypeScript implementation, rather than C++.",
   "main": "index.js",
   "devDependencies": {
+    "@types/node": "^12.12.17",
     "tslint": "^5.20.1",
     "typescript": "^3.7.3"
   },
