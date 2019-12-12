@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/MichaelBuhler/kaleidoscope-ts/issues"
   },
-  "homepage": "https://github.com/MichaelBuhler/kaleidoscope-ts#readme"
+  "homepage": "https://github.com/MichaelBuhler/kaleidoscope-ts#readme",
+  "private": true
 }
